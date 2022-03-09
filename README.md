@@ -40,9 +40,7 @@ improve people`s lives.</p>
 </ul>
 
 <h3>A bit on my hobbies</h3>
-<ul>
-<li></li>
-</ul>
+<h3>♟ ⚽ ️🎮 🛌 🧑‍💻</h3>
 
 <h3>Where to find me</h3>
 <p>
