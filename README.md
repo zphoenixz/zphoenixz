@@ -37,11 +37,6 @@ improve people`s lives.</p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
 </p>
-<h3>I'm currently working on ..</h3>
-<ul>
-  <li><a href="https://www.unosquare.com/"><b>Unosquare 🦄</b></a><br/><i>I develop amazing Software that improves people lives, now I'm mainly involved in Java using Spring and Amazon Aws</i></li>
-  <li><a href="https://latam.coderhouse.com"><b>Coderhouse 👨‍🏫</b></a><br/><i>I teach some programming languages to LATAM students through a great curriculum designed by them</i></li>
-</ul>
 
 <h3>A bit on my hobbies</h3>
 <h3>♟ ⚽ ️🎮 🛌 🧑‍💻</h3>
