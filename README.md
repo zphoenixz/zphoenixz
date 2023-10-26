@@ -2,12 +2,8 @@
 
 <p>My name is Ramiro, I'm a Bolivian 🇧🇴 engineer who loves to work on anything that involves the creation of technology meant to
 improve people`s lives.</p>
-<p>As an engineer I'm glad to have lived or studied while getting to know the people and the local culture of </p>
-<ul>
-  <li>🇨🇭</li>
-  <li>🇪🇸</li>  
-  <li>🇺🇸</li>
-</ul>
+<p>As an engineer I'm glad to have lived or studied while getting to know the people and the local culture of 🇨🇭, 🇪🇸, 🇺🇸 and 
+🇦🇷</p>
 
 <h3>The tech stack I use</h3>
 <p>
